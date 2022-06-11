@@ -35,7 +35,7 @@ export default function App() {
     if (plusMinus === '+'){
       setCounter(input + count)
     }
-    else {
+    else if (plusMinus === '-'){
       setCounter(input - count)
     }
   };
