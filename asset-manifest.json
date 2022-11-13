@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactCounter/static/css/main.49b860b6.css",
-    "main.js": "/ReactCounter/static/js/main.c228de10.js",
-    "static/js/787.0857964b.chunk.js": "/ReactCounter/static/js/787.0857964b.chunk.js",
-    "index.html": "/ReactCounter/index.html",
-    "main.49b860b6.css.map": "/ReactCounter/static/css/main.49b860b6.css.map",
-    "main.c228de10.js.map": "/ReactCounter/static/js/main.c228de10.js.map",
-    "787.0857964b.chunk.js.map": "/ReactCounter/static/js/787.0857964b.chunk.js.map"
+    "main.css": "/reactcounter/static/css/main.49b860b6.css",
+    "main.js": "/reactcounter/static/js/main.af0519f6.js",
+    "static/js/787.0857964b.chunk.js": "/reactcounter/static/js/787.0857964b.chunk.js",
+    "index.html": "/reactcounter/index.html",
+    "main.49b860b6.css.map": "/reactcounter/static/css/main.49b860b6.css.map",
+    "main.af0519f6.js.map": "/reactcounter/static/js/main.af0519f6.js.map",
+    "787.0857964b.chunk.js.map": "/reactcounter/static/js/787.0857964b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b860b6.css",
-    "static/js/main.c228de10.js"
+    "static/js/main.af0519f6.js"
   ]
 }
