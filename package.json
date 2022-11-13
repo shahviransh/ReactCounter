@@ -2,7 +2,7 @@
   "name": "reactcounter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shahviransh.github.io/reactcounter",
+  "homepage": "https://shahviransh.github.io/ReactCounter",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
